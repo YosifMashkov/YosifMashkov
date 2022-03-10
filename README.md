@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Yosif Mashkov
+- 👀 I’m interested in anything related to DevOps
+- 🌱 I’m currently learning DevOps
+- 📫 How to reach me: yosif.mashkov@gmail.com
